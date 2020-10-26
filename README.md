@@ -1,3 +1,3 @@
 # PySerialSniffer
 Sniff serial traffic using a null-modem emulator
-![](Setup.jpg?raw=true)
+![](Setup.JPG?raw=true)
